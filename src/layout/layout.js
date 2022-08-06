@@ -1,4 +1,4 @@
-import MainNavigation from './MainNavugatio'
+import MainNavigation from './MainNavigatio'
 import classes from './Layout.module.css'
 
 

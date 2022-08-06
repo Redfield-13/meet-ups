@@ -1,4 +1,5 @@
 import MeetupList from '../components/meetups/MeetupList';
+import Layout from '../layout/layout';
 import {useState , useEffect} from 'react'
 
 

@@ -2,7 +2,7 @@ import {Route ,Switch} from 'react-router-dom'
 import AllMeetUpsPage from './pages/AllMeetUps'
 import NewMeetUpsPage from './pages/NewMeetUp'
 import FavMeetUpsPage from './pages/Favorite'
-import MainNavigation from './layout/MainNavugatio'
+import MainNavigation from './layout/MainNavigatio'
 import Layout from '../src/layout/layout'
 
 function App() {
